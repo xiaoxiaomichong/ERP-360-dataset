@@ -1,1 +1,1 @@
-# ERP-360-dataset
+The ERP-360 dataset is an equirectangular projection image, which was taken in Chongqing in 2023. Since it is an equirectangular projection image taken in a real scene, the dataset has 12.6 GB.The ERP-360 dataset has 5310 images, 3720 images in the training set, 1060 images in the validation set, and 530 images in the test set. It has 5 categories including person, motorbike, car, cat, and building.
